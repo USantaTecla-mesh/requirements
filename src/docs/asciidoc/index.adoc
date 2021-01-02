@@ -27,52 +27,53 @@ _Escribir una expresión que evalúe a cierto para aquellas celdas blancas (espa
 
 ^a|
 image:malla1.png[]
+[celda]()
 ^a|
-image::malla2.png[]
+image:malla2.png[]
 ^a|
-image::malla3.png[]
+image:malla3.png[]
 ^a| 
-image::malla4.png[]
+image:malla4.png[]
 
 
 ^a|
-image::malla5.png[]
+image:malla5.png[]
 ^a|
-image::malla6.png[]
+image:malla6.png[]
 ^a|
-image::malla7.png[]
+image:malla7.png[]
 ^a|
-image::malla8.png[]
+image:malla8.png[]
 
 
 ^a|
-image::malla9.png[]
+image:malla9.png[]
 ^a|
-image::malla10.png[]
+image:malla10.png[]
 ^a|
-image::malla11.png[]
+image:malla11.png[]
 ^a|
-image::malla12.png[]
+image:malla12.png[]
 
 
 ^a|
-image::malla13.png[]
+image:malla13.png[]
 ^a|
-image::malla14.png[]
+image:malla14.png[]
 ^a|
-image::malla15.png[]
+image:malla15.png[]
 ^a|
-image::malla16.png[]
+image:malla16.png[]
 
 
 ^a|
-image::malla17.png[]
+image:malla17.png[]
 ^a|
-image::malla18.png[]
+image:malla18.png[]
 ^a|
-image::malla19.png[]
+image:malla19.png[]
 ^a|
-image::malla20.png[]
+image:malla20.png[]
 
 |===
 
