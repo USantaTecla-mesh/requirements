@@ -17,5 +17,27 @@ Universo Santa Tecla
 | [Imagen A](https://github.com/USantaTecla-mesh/javascript/blob/master/expresiones/imagenA/Imagen%20A.js) | [Interior](https://github.com/USantaTecla-mesh/javascript/blob/master/expresiones/interior/Interior.js) | [Imagen B](https://github.com/USantaTecla-mesh/javascript/blob/master/expresiones/imagenB/Imagen%20B.js) | [El borde del interior](https://github.com/USantaTecla-mesh/javascript/blob/master/expresiones/elBordeDelInterior/El%20borde%20del%20interior.js) |
 
 
+## Sentencias Iterativas
 
+* Mallas de asteríscos
+
+|
+javascript
+|
+[Malla de asteriscos](https://github.com/USantaTecla-mesh/javascript/blob/master/sentenciasIterativas/mallaDeAsteriscos/Malla%20de%20asteriscos.js)
+
+* Diagonal principal
+
+|
+javascript
+|
+[Diagonal principal](https://github.com/USantaTecla-mesh/javascript/blob/master/sentenciasIterativas/diagonalPrincipal/Diagonal%20principal.js)
+
+
+* Diagonal sin espacios innecesarios
+
+|
+javascript
+|
+[Diagonal sin espacios innecesarios](https://github.com/USantaTecla-mesh/javascript/blob/master/sentenciasIterativas/diagonalPrincipalSinEspaciosInnecesarios/Diagonal%20principal%20sin%20espacios%20innecesarios.js)
 
