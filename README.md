@@ -1,4 +1,4 @@
-# USantaTecla. Mathematics
+# USantaTecla. Mesh
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com) 
 
@@ -6,16 +6,14 @@ Universo Santa Tecla
 
 * Escribir una expresión que evalúe a cierto para aquellas celdas blancas (espacios) de la siguiente malla de asteriscos
 
-|
-![Celda](https://github.com/USantaTecla-mesh/requirements/blob/master/src/docs/asciidoc/images/malla1.png)
-|
-![Celda central](https://github.com/USantaTecla-mesh/requirements/blob/master/src/docs/asciidoc/images/malla2.png)
-|
-![Fila decimoceptima](https://github.com/USantaTecla-mesh/requirements/blob/master/src/docs/asciidoc/images/malla3.png)
-|
-![Segunda columna](https://github.com/USantaTecla-mesh/requirements/blob/master/src/docs/asciidoc/images/malla4.png)
-|
 
+![Celda](https://github.com/USantaTecla-mesh/requirements/blob/master/src/docs/asciidoc/images/malla1.png)
+
+![Celda central](https://github.com/USantaTecla-mesh/requirements/blob/master/src/docs/asciidoc/images/malla2.png)
+
+![Fila decimoceptima](https://github.com/USantaTecla-mesh/requirements/blob/master/src/docs/asciidoc/images/malla3.png)
+
+![Segunda columna](https://github.com/USantaTecla-mesh/requirements/blob/master/src/docs/asciidoc/images/malla4.png)
 
 javascript
 |
