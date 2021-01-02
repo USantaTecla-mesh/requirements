@@ -21,14 +21,14 @@ Universo Santa Tecla
 
 * Mallas de asteríscos
 
-|
+
 javascript
 |
 [Malla de asteriscos](https://github.com/USantaTecla-mesh/javascript/blob/master/sentenciasIterativas/mallaDeAsteriscos/Malla%20de%20asteriscos.js)
 
 * Diagonal principal
 
-|
+
 javascript
 |
 [Diagonal principal](https://github.com/USantaTecla-mesh/javascript/blob/master/sentenciasIterativas/diagonalPrincipal/Diagonal%20principal.js)
@@ -36,7 +36,7 @@ javascript
 
 * Diagonal sin espacios innecesarios
 
-|
+
 javascript
 |
 [Diagonal sin espacios innecesarios](https://github.com/USantaTecla-mesh/javascript/blob/master/sentenciasIterativas/diagonalPrincipalSinEspaciosInnecesarios/Diagonal%20principal%20sin%20espacios%20innecesarios.js)
