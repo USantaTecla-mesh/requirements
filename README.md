@@ -4,6 +4,8 @@ Universo Santa Tecla
 
 ## Expresiones
 
+### Malla de asteriscos
+
 * Escribir una expresión que evalúe a cierto para aquellas celdas blancas (espacios) de la siguiente malla de asteriscos
 
 ![Malla completa](https://github.com/USantaTecla-mesh/requirements/blob/master/src/docs/asciidoc/images/malla%20completa.png)
@@ -19,14 +21,18 @@ Universo Santa Tecla
 
 ## Sentencias Iterativas
 
-* Mallas de asteríscos
+### Mallas de asteríscos
+
+* Escribir una expresión que evalúe a cierto para aquellas celdas blancas (espacios) de la siguiente malla de asteriscos
 
 
 javascript
 |
 [Malla de asteriscos](https://github.com/USantaTecla-mesh/javascript/blob/master/sentenciasIterativas/mallaDeAsteriscos/Malla%20de%20asteriscos.js)
 
-* Diagonal principal
+### Diagonal principal
+
+* Escribir una expresión que evalúe a cierto para aquellas celdas blancas (espacios) de la siguiente malla de asteriscos
 
 
 javascript
@@ -34,7 +40,9 @@ javascript
 [Diagonal principal](https://github.com/USantaTecla-mesh/javascript/blob/master/sentenciasIterativas/diagonalPrincipal/Diagonal%20principal.js)
 
 
-* Diagonal sin espacios innecesarios
+### Diagonal sin espacios innecesarios
+
+* Escribir una expresión que evalúe a cierto para aquellas celdas blancas (espacios) de la siguiente malla de asteriscos
 
 
 javascript
