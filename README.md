@@ -8,7 +8,7 @@ Universo Santa Tecla
 
 * Escribir una expresión que evalúe a cierto para aquellas celdas blancas (espacios) de la siguiente malla de asteriscos
 
-![Malla completa](https://github.com/USantaTecla-mesh/requirements/blob/master/src/docs/asciidoc/images/malla%20completa.png)
+![Malla completa](https://github.com/USantaTecla-mesh/requirements/blob/master/imgs/malla%20completa.png)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
