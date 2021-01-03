@@ -2,9 +2,19 @@
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com) 
 
-## Expresiones
+## Modelo del Dominio
 
-### Malla de asteriscos
+![Malla completa](https://github.com/USantaTecla-mesh/requirements/blob/master/docs/images/malla%20completa.png)
+
+## Versiones
+
+![Versiones](./docs/diagrams/out/versiones/versiones.svg)
+
+## Progamacion
+
+### Expresiones
+
+#### Malla de asteriscos
 
 * Escribir una expresión que evalúe a cierto para aquellas celdas blancas (espacios) de la siguiente malla de asteriscos
 
@@ -19,9 +29,9 @@ Universo Santa Tecla
 | [Imagen A](https://github.com/USantaTecla-mesh/javascript/blob/master/expresiones/imagenA/Imagen%20A.js) | [Interior](https://github.com/USantaTecla-mesh/javascript/blob/master/expresiones/interior/Interior.js) | [Imagen B](https://github.com/USantaTecla-mesh/javascript/blob/master/expresiones/imagenB/Imagen%20B.js) | [El borde del interior](https://github.com/USantaTecla-mesh/javascript/blob/master/expresiones/elBordeDelInterior/El%20borde%20del%20interior.js) |
 
 
-## Sentencias Iterativas
+### Sentencias Iterativas
 
-### Mallas de asteríscos
+#### Mallas de asteríscos
 
 * Escribir una expresión que evalúe a cierto para aquellas celdas blancas (espacios) de la siguiente malla de asteriscos
 
@@ -30,7 +40,7 @@ javascript
 |
 [Malla de asteriscos](https://github.com/USantaTecla-mesh/javascript/blob/master/sentenciasIterativas/mallaDeAsteriscos/Malla%20de%20asteriscos.js)
 
-### Diagonal principal
+#### Diagonal principal
 
 * Escribir una expresión que evalúe a cierto para aquellas celdas blancas (espacios) de la siguiente malla de asteriscos
 
@@ -40,10 +50,9 @@ javascript
 [Diagonal principal](https://github.com/USantaTecla-mesh/javascript/blob/master/sentenciasIterativas/diagonalPrincipal/Diagonal%20principal.js)
 
 
-### Diagonal sin espacios innecesarios
+#### Diagonal sin espacios innecesarios
 
 * Escribir una expresión que evalúe a cierto para aquellas celdas blancas (espacios) de la siguiente malla de asteriscos
-
 
 javascript
 |
